@@ -1,2 +1,2 @@
-This is the first file that used to uploaded to Github
+This is the first file that used to upload to Github
 Now I add this line to test git pull command
